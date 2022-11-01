@@ -38,6 +38,8 @@ print(type(set_typles))
 set_from_string = set('hoola')
 print(set_from_string)
 
+# creando un conjunto apartir de una tupla
+
 set_from_tuple = set(('abc', 'cbv', 'as', 'abc'))
 print(set_from_tuple)
 
